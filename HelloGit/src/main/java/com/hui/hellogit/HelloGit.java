@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("分支更新1");
         System.out.println("master更新2");
         System.out.println("分支更新2");
+        System.out.println("master更新3");
     }
 }
